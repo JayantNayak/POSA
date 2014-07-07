@@ -10,7 +10,7 @@ Part of the "Mobile Cloud Computing with Android" Specialization »
 ________________________________________________________________________________________________________
 
 Instructors
-_____________
+////////////
 -->Douglas C. Schmidt
 Vanderbilt University
 
